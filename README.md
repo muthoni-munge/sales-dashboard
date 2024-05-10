@@ -1,6 +1,11 @@
-# sales-dashboard
+# Global Sales-dashboard-PowerBI
+
+## Project Overview
 
 
+
+
+The data analysis project aims at analysing the sales performance of the global company with a key focus on Kenya to gain insights and deep undestanding on trends over the years so as to give data driven recommendations.
 
 ## Data Used
 
