@@ -1,7 +1,7 @@
 # Global Sales-dashboard-PowerBI
 
 ## Project Overview
-The data analysis project aims at analysing the sales performance of the global company with a key focus on Kenya to gain insights and deep undestanding on trends over the years so as to give data driven recommendations.
+The data analysis project aims at analysing the sales performance of the global company with a key focus on Kenya to gain insights and deep undestanding on trends over the years.
 
 ![powerbi](https://github.com/muthoni-munge/sales-dashboard/assets/163986206/198a1cff-ce1b-4d43-9fad-2193046a8ac6)
 
@@ -30,3 +30,5 @@ The data analysis project aims at analysing the sales performance of the global 
 - Technology has the highest profit to sales ratio with 27% with accessories and phones being the top contributors with 30% and 27% respectively.
 - Nairobi has the highest sales compared to other cities.
 - Thika has the highest profit to sales ratio at 34%.
+
+  
